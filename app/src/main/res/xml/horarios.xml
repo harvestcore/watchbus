@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <horario>
+        <inicio>
+            <hora time="06:00" />
+            <hora time="07:00" />
+            <hora time="08:00" />
+            <hora time="09:00" />
+            <hora time="10:00" />
+            <hora time="11:00" />
+            <hora time="12:00" />
+            <hora time="13:00" />
+            <hora time="14:00" />
+            <hora time="15:00" />
+            <hora time="16:00" />
+            <hora time="17:00" />
+            <hora time="18:00" />
+            <hora time="19:00" />
+            <hora time="20:00" />
+            <hora time="21:00" />
+            <hora time="22:00" />
+            <hora time="23:00" />
+        </inicio>
+        <fin>
+            <hora time="07:00" />
+            <hora time="08:00" />
+            <hora time="09:00" />
+            <hora time="10:00" />
+            <hora time="11:00" />
+            <hora time="12:00" />
+            <hora time="13:00" />
+            <hora time="14:00" />
+            <hora time="15:00" />
+            <hora time="16:00" />
+            <hora time="17:00" />
+            <hora time="18:00" />
+            <hora time="19:00" />
+            <hora time="20:00" />
+            <hora time="21:00" />
+            <hora time="22:00" />
+            <hora time="23:00" />
+            <hora time="24:00" />
+        </fin>
+    </horario>
+</resources>

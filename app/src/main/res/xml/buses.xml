@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <buses>
+        <bus>
+            <numero value="4" />
+            <linea>
+                <punto nombre="Avda. Andalucia" />
+                <punto nombre="Circunvalacion" />
+                <punto nombre="Ctra. Malaga" />
+                <punto nombre="Villarejo" />
+                <punto nombre="Caleta" />
+                <punto nombre="Avda. Constitución" />
+                <punto nombre="Gran vía" />
+                <punto nombre="Acera del darro" />
+                <punto nombre="Pablo Picasso" />
+                <punto nombre="Avda. Dilar" />
+                <punto nombre="Avda. Ilustración" />
+                <punto nombre="PTS" />
+            </linea>
+        </bus>
+        <bus>
+            <numero value="5" />
+            <linea>
+                <punto nombre="Nueva Granada" />
+                <punto nombre="Cno. Alfacar" />
+                <punto nombre="Julio Moreno" />
+                <punto nombre="Sánchez Cotán" />
+                <punto nombre="Casería del Cerro" />
+                <punto nombre="Pedro Machuca" />
+                <punto nombre="Juan Pablo II" />
+                <punto nombre="Ribera del Beiro" />
+                <punto nombre="Cno. Ronda" />
+                <punto nombre="Fernando de los Ríos" />
+                <punto nombre="Avda. Cádiz" />
+                <punto nombre="Beethoven" />
+            </linea>
+        </bus>
+        <bus>
+            <numero value="8" />
+            <linea>
+                <punto nombre="Julio Moreno Dávila" />
+                <punto nombre="Torrepalma" />
+                <punto nombre="Henríquez de Jorquera" />
+                <punto nombre="Cno. Alfacar" />
+                <punto nombre="Nueva Granada" />
+                <punto nombre="Ronda de Panaderos" />
+                <punto nombre="Mª Manuela" />
+                <punto nombre="Ronda de Alfareros" />
+                <punto nombre="Puerta Guzmanes" />
+                <punto nombre="Prof. Callao" />
+                <punto nombre="Prof. Clavera" />
+                <punto nombre="San Isidro" />
+                <punto nombre="Gran vía" />
+                <punto nombre="Andrés Segovia" />
+                <punto nombre="Carlos V" />
+            </linea>
+        </bus>
+        <bus>
+            <numero value="9" />
+            <linea>
+                <punto nombre="Molina Fajardo" />
+                <punto nombre="Avda. Andalucía" />
+                <punto nombre="Cruz del sur" />
+                <punto nombre="Estadio de la Juventud" />
+                <punto nombre="Cno. Ronda" />
+                <punto nombre="Méndez Núñez" />
+                <punto nombre="Recogidas" />
+                <punto nombre="Pza. Humilladero" />
+                <punto nombre="Paseo de la Bomba" />
+                <punto nombre="Avda. Cervantes" />
+                <punto nombre="José Tamayo" />
+                <punto nombre="Cno. Neveros" />
+                <punto nombre="Aconcagua" />
+                <punto nombre="Los Rebites" />
+            </linea>
+        </bus>
+        <bus>
+            <numero value="11" />
+            <linea>
+                <punto nombre="Pza. Américas" />
+                <punto nombre="Alcázar Genil" />
+                <punto nombre="Cno. Ronda" />
+                <punto nombre="Recogidas" />
+                <punto nombre="Méndez Núñez" />
+                <punto nombre="Estadio Juventud" />
+                <punto nombre="Villarejo" />
+                <punto nombre="Avda. Constitución" />
+                <punto nombre="Gran Vía" />
+                <punto nombre="Pablo Picasso" />
+                <punto nombre="Avda. Cervantes" />
+                <punto nombre="José Tamayo" />
+                <punto nombre="Hoya de la Mora" />
+                <punto nombre="Pepita Bustamante" />
+                <punto nombre="Fontiveros" />
+                <punto nombre="Avda. América" />
+                <punto nombre="Plaza Américas" />
+            </linea>
+        </bus>
+        <bus>
+            <numero value="13" />
+            <linea>
+                <punto nombre="Palacio Congresos" />
+                <punto nombre="Acera del Darro" />
+                <punto nombre="Humilladero" />
+                <punto nombre="Paseo del Salón" />
+                <punto nombre="Paseo de la Bomba" />
+                <punto nombre="Ctra. de la Sierra" />
+                <punto nombre="Avda. Sta. M. Alhambra" />
+                <punto nombre="Carmen de los Fosos" />
+                <punto nombre="Parking Generalife" />
+                <punto nombre="Cementerio San José" />
+            </linea>
+        </bus>
+        <bus>
+            <numero value="21" />
+            <linea>
+                <punto nombre="Avda. García Lorca" />
+                <punto nombre="Calle Iznalloz" />
+                <punto nombre="Juan Pablo II" />
+                <punto nombre="Parque Bomberos" />
+                <punto nombre="Estación Autobuses" />
+                <punto nombre="Sol y Sombra" />
+                <punto nombre="Luis Amador" />
+                <punto nombre="Avda. Andalucía" />
+                <punto nombre="Avda. Constitución" />
+                <punto nombre="Gran Vía" />
+                <punto nombre="Plaza del Carmen" />
+                <punto nombre="Palacio de Congresos" />
+                <punto nombre="Cruz de Lagos" />
+            </linea>
+        </bus>
+        <bus>
+            <numero value="33" />
+            <linea>
+                <punto nombre="Juan Pablo II" />
+                <punto nombre="Pedro Temboury" />
+                <punto nombre="Joaquina Eguaras" />
+                <punto nombre="Tete Montoliú" />
+                <punto nombre="Avda. Madrid" />
+                <punto nombre="Pza. San Isidro" />
+                <punto nombre="Avda. Constitución" />
+                <punto nombre="Gran Vía" />
+                <punto nombre="Acera del Darro" />
+                <punto nombre="Pza. Humilladero" />
+                <punto nombre="Paseo de la Bomba" />
+                <punto nombre="Ctra. de la Sierra 13" />
+                <punto nombre="Ronda Sur" />
+                <punto nombre="Ctra. de la Sierra 91" />
+                <punto nombre="Ordesa" />
+                <punto nombre="Manuel Cabrera" />
+                <punto nombre="Ayto. Cenes" />
+                <punto nombre="Los Pinillos" />
+            </linea>
+        </bus>
+    </buses>
+</resources>

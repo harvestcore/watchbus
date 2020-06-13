@@ -12,6 +12,10 @@
         "source": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
+        "merged": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/build/intermediates/res/merged/debug/xml_buses.xml.flat",
+        "source": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/res/xml/buses.xml"
+    },
+    {
         "merged": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
@@ -68,8 +72,16 @@
         "source": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
+        "merged": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/build/intermediates/res/merged/debug/layout_lineas.xml.flat",
+        "source": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/res/layout/lineas.xml"
+    },
+    {
         "merged": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/build/intermediates/res/merged/debug/xml_horarios.xml.flat",
+        "source": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/res/xml/horarios.xml"
     },
     {
         "merged": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",

@@ -263,6 +263,7 @@ bool action_choose_expand_selected
 bool action_choose_symmetrical_dimen
 color action_button_background
 color ambient_mode_text
+color back
 color black
 color black_54p
 color black_86p
@@ -310,10 +311,13 @@ color disabled_text_light
 color dismiss_close
 color dismiss_close_pressed
 color dismiss_overlay_bg
+color front1
+color front2
 color green
 color grey
 color ic_launcher_background
 color light_grey
+color middle
 color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
@@ -616,6 +620,7 @@ id all
 id animatedWrapperContainer
 id async
 id auto
+id autobusesButton
 id barrier
 id blocking
 id bottom
@@ -644,8 +649,10 @@ id fill_horizontal
 id fill_vertical
 id fit
 id forever
+id frameLayout
 id gone
 id height
+id horariosButton
 id icon
 id icon_group
 id icon_only
@@ -657,6 +664,7 @@ id left
 id light
 id line1
 id line3
+id lineasButton
 id media_actions
 id multiPage
 id multi_page
@@ -668,6 +676,7 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id opcionesButton
 id packed
 id parent
 id parentPanel
@@ -780,6 +789,7 @@ layout alert_dialog_wearable
 layout custom_dialog
 layout decomposition_config_activity
 layout dismiss_overlay
+layout lineas
 layout navigation_drawer_item_view
 layout navigation_drawer_view
 layout notification_action
@@ -890,7 +900,6 @@ string complicationDrawable_titleTypeface
 string dismiss_overlay_button_label
 string generic_cancel
 string generic_yes
-string hello_world
 string navigation_drawer_content_description
 string status_bar_notification_info_overflow
 string time_difference_now
@@ -991,3 +1000,5 @@ styleable WearableFrameLayout android_foreground android_measureAllChildren andr
 styleable WearableNavigationDrawer navigation_style
 styleable WearableNavigationDrawerView navigationStyle
 styleable WearableRecyclerView bezelWidth bezel_width circularScrollingGestureEnabled circular_scrolling_gesture_enabled scrollDegreesPerScreen scroll_degrees_per_screen
+xml buses
+xml horarios

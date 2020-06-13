@@ -4,30 +4,11 @@
             "outputFile": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-round-v23/values-round-v23.xml",
             "map": [
                 {
-                    "source": "/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/res/values-round/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "58",
-                        "endOffsets": "70"
-                    },
-                    "to": {
-                        "startLines": "12",
-                        "startColumns": "4",
-                        "startOffsets": "771",
-                        "endColumns": "58",
-                        "endOffsets": "825"
-                    }
-                },
-                {
                     "source": "/home/angel/.gradle/caches/transforms-2/files-2.1/93bc49fdd9e217445635df1ebb30410c/jetified-wearable-2.5.0/res/values-round-v23/values.xml",
                     "from": {
-                        "startLines": "4,5,8,9,10,11,12,13,14,15",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "213,269,472,531,608,689,733,804,877,959",
-                        "endColumns": "55,56,58,76,80,43,70,72,81,75",
-                        "endOffsets": "268,325,530,607,688,732,803,876,958,1034"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
