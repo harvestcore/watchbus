@@ -32,59 +32,58 @@
 21-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:12:9-41
 22        android:supportsRtl="true"
 22-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:13:9-35
-23        android:testOnly="true"
-24        android:theme="@android:style/Theme.DeviceDefault" >
-24-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:14:9-59
-25        <uses-library
-25-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:15:9-17:39
-26            android:name="com.google.android.wearable"
-26-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:16:13-55
-27            android:required="true" />
-27-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:17:13-36
-28
-29        <!--
-30               Set to true if your app is Standalone, that is, it does not require the handheld
-31               app to run.
-32        -->
-33        <meta-data
-33-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:23:9-25:36
-34            android:name="com.google.android.wearable.standalone"
-34-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:24:13-66
-35            android:value="true" />
-35-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:25:13-33
-36
-37        <activity
-37-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:27:9-35:20
-38            android:name="com.agm.watchbus.MainActivity"
-38-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:28:13-41
-39            android:label="@string/app_name" >
-39-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:29:13-45
-40            <intent-filter>
-40-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:30:13-34:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:31:17-69
-41-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:31:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:33:17-77
-43-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:33:27-74
-44            </intent-filter>
-45        </activity>
-46        <activity
-46-->[com.google.android.gms:play-services-base:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/6a27f052584ba14e1bf3f0754d910342/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
-47            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-47-->[com.google.android.gms:play-services-base:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/6a27f052584ba14e1bf3f0754d910342/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
-48            android:exported="false"
-48-->[com.google.android.gms:play-services-base:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/6a27f052584ba14e1bf3f0754d910342/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
-49            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-49-->[com.google.android.gms:play-services-base:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/6a27f052584ba14e1bf3f0754d910342/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
-50
-51        <meta-data
-51-->[com.google.android.gms:play-services-basement:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/85cfff5691f363e5417071a3d3b6c15f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
-52            android:name="com.google.android.gms.version"
-52-->[com.google.android.gms:play-services-basement:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/85cfff5691f363e5417071a3d3b6c15f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
-53            android:value="@integer/google_play_services_version" />
-53-->[com.google.android.gms:play-services-basement:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/85cfff5691f363e5417071a3d3b6c15f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
-54    </application>
-55
-56</manifest>
+23        android:theme="@android:style/Theme.DeviceDefault" >
+23-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:14:9-59
+24        <uses-library
+24-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:15:9-17:39
+25            android:name="com.google.android.wearable"
+25-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:16:13-55
+26            android:required="true" />
+26-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:17:13-36
+27
+28        <!--
+29               Set to true if your app is Standalone, that is, it does not require the handheld
+30               app to run.
+31        -->
+32        <meta-data
+32-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:23:9-25:36
+33            android:name="com.google.android.wearable.standalone"
+33-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:24:13-66
+34            android:value="true" />
+34-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:25:13-33
+35
+36        <activity
+36-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:27:9-35:20
+37            android:name="com.agm.watchbus.MainActivity"
+37-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:28:13-41
+38            android:label="@string/app_name" >
+38-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:29:13-45
+39            <intent-filter>
+39-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:30:13-34:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:31:17-69
+40-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:31:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:33:17-77
+42-->/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/src/main/AndroidManifest.xml:33:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->[com.google.android.gms:play-services-base:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/6a27f052584ba14e1bf3f0754d910342/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+46            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+46-->[com.google.android.gms:play-services-base:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/6a27f052584ba14e1bf3f0754d910342/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+47            android:exported="false"
+47-->[com.google.android.gms:play-services-base:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/6a27f052584ba14e1bf3f0754d910342/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+48            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+48-->[com.google.android.gms:play-services-base:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/6a27f052584ba14e1bf3f0754d910342/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+49
+50        <meta-data
+50-->[com.google.android.gms:play-services-basement:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/85cfff5691f363e5417071a3d3b6c15f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+51            android:name="com.google.android.gms.version"
+51-->[com.google.android.gms:play-services-basement:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/85cfff5691f363e5417071a3d3b6c15f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+52            android:value="@integer/google_play_services_version" />
+52-->[com.google.android.gms:play-services-basement:17.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/85cfff5691f363e5417071a3d3b6c15f/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+53    </application>
+54
+55</manifest>

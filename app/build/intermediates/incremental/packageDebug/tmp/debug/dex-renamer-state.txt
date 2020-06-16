@@ -1,4 +1,4 @@
-#Sun Jun 14 21:25:47 CEST 2020
+#Tue Jun 16 23:42:33 CEST 2020
 base.0=/home/angel/Dropbox/Universidad/4-Cuarto/Segundo Cuatri/PDM/WatchBus/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
